@@ -1,0 +1,8 @@
+{
+  "view": "FRONTAL",
+  "view_confidence": 0.75,
+  "posture": "STANDING",
+  "posture_confidence": 0.8,
+  "usable_for_measurement": false,
+  "confidence": 0.75
+}

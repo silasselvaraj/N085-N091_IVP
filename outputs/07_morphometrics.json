@@ -1,0 +1,17 @@
+{
+  "ratios": {
+    "muzzle_to_skull_ratio": 0.5741
+  },
+  "confidences": {
+    "muzzle_to_skull_ratio": 0.8802
+  },
+  "refusals": {
+    "height_to_length_ratio": "view FRONTAL, posture STANDING",
+    "leg_to_body_ratio": "view FRONTAL, posture STANDING",
+    "chest_depth_ratio": "view FRONTAL, posture STANDING",
+    "ear_to_head_ratio": "AP-10K has no ear keypoints; measured from contour in stage 10",
+    "tail_to_body_ratio": "AP-10K has no tail tip; measured from contour in stage 10"
+  },
+  "asymmetry_findings": null,
+  "body_length_px": 117.47
+}

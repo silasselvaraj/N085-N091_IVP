@@ -1,0 +1,14 @@
+{
+  "ears": {
+    "ear_shape": "UNKNOWN",
+    "confidence": 0.0,
+    "ear_to_head_ratio": null,
+    "reason": "view FRONTAL not eligible (needs profile or three-quarter)"
+  },
+  "tail": {
+    "tail_carriage": "UNKNOWN",
+    "confidence": 0.0,
+    "tail_to_body_ratio": null,
+    "reason": "search found something implausibly far (likely a leg, not a tail)"
+  }
+}

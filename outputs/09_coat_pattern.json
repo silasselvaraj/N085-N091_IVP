@@ -1,0 +1,16 @@
+{
+  "coat": {
+    "length": "MEDIUM",
+    "length_confidence": 1.0,
+    "roughness": 0.3548,
+    "texture": "SMOOTH",
+    "texture_confidence": 0.6
+  },
+  "pattern": {
+    "pattern": "SADDLE",
+    "confidence": 0.55,
+    "colour": "black",
+    "share_of_back": 0.721,
+    "concentration": 0.618
+  }
+}

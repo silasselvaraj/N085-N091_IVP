@@ -1,0 +1,24 @@
+{
+  "measurements": {
+    "width": 456,
+    "height": 402,
+    "short_edge": 402,
+    "edge_sharpness": 6.9648130936705135,
+    "blur_laplacian_normalised": 0.2692415768149975,
+    "tenengrad_normalised": 3.461839143968314,
+    "mean_luminance": 102.21593785458671,
+    "shadow_clipping": 0.03238740507986384,
+    "highlight_clipping": 0.0020020511477699225,
+    "contrast": 62.09887550218258,
+    "noise_sigma": 3.5475519057856197,
+    "colour_cast": 1.193290797017403,
+    "saturation": 29.39179104477612
+  },
+  "verdict": {
+    "usable": true,
+    "degraded": false,
+    "reject_reasons": [],
+    "degrade_reasons": [],
+    "reported_reasons": []
+  }
+}

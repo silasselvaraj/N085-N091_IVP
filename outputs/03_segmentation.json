@@ -1,0 +1,25 @@
+{
+  "iou_hypotheses": [
+    0.9509198665618896,
+    0.9189067482948303,
+    0.9587486982345581
+  ],
+  "chosen_hypothesis": 2,
+  "area_px": 71574,
+  "box_fill": 0.5255,
+  "solidity": 0.7583,
+  "boundary_smoothness": 0.7993,
+  "edge_contact": 0.0,
+  "plausible": true,
+  "occluded": false,
+  "fragmented": false,
+  "quality": 0.7237,
+  "crop_box": {
+    "x1": 503.616044921875,
+    "y1": 189.09392028808594,
+    "x2": 959.0090771484375,
+    "y2": 591.5330480957032
+  },
+  "image_width": 1024,
+  "image_height": 683
+}

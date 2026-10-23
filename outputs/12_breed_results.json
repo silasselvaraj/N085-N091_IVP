@@ -1,0 +1,143 @@
+{
+  "dogs": [
+    {
+      "verdict": "PROVISIONAL",
+      "breed": "border_collie",
+      "display_name": "Border Collie",
+      "probability": 0.5277,
+      "margin": 0.3541,
+      "ood_energy_score": -5.2385,
+      "image_degraded": false,
+      "mask_quality": 0.7237,
+      "possible_mixed_breed": false,
+      "ranked_candidates": [
+        {
+          "breed": "border_collie",
+          "display_name": "Border Collie",
+          "probability": 0.5277
+        },
+        {
+          "breed": "cardigan",
+          "display_name": "Cardigan",
+          "probability": 0.1736
+        },
+        {
+          "breed": "collie",
+          "display_name": "Collie",
+          "probability": 0.1326
+        },
+        {
+          "breed": "whippet",
+          "display_name": "Whippet",
+          "probability": 0.0396
+        },
+        {
+          "breed": "appenzeller",
+          "display_name": "Appenzeller",
+          "probability": 0.028
+        }
+      ],
+      "index": 0,
+      "box": {
+        "x1": 535.0224609375,
+        "y1": 216.8483428955078,
+        "x2": 927.6026611328125,
+        "y2": 563.7786254882812
+      },
+      "is_subject": true
+    },
+    {
+      "verdict": "CONFIDENT",
+      "breed": "kelpie",
+      "display_name": "Kelpie",
+      "probability": 0.9291,
+      "margin": 0.8981,
+      "ood_energy_score": -6.2025,
+      "image_degraded": false,
+      "mask_quality": 0.5878,
+      "possible_mixed_breed": false,
+      "ranked_candidates": [
+        {
+          "breed": "kelpie",
+          "display_name": "Kelpie",
+          "probability": 0.9291
+        },
+        {
+          "breed": "brittany_spaniel",
+          "display_name": "Brittany Spaniel",
+          "probability": 0.031
+        },
+        {
+          "breed": "doberman",
+          "display_name": "Doberman",
+          "probability": 0.0052
+        },
+        {
+          "breed": "english_springer",
+          "display_name": "English Springer",
+          "probability": 0.0042
+        },
+        {
+          "breed": "dingo",
+          "display_name": "Dingo",
+          "probability": 0.0036
+        }
+      ],
+      "index": 1,
+      "box": {
+        "x1": 71.9932861328125,
+        "y1": 56.003753662109375,
+        "x2": 386.1046447753906,
+        "y2": 481.9936218261719
+      },
+      "is_subject": false
+    },
+    {
+      "verdict": "CONFIDENT",
+      "breed": "kelpie",
+      "display_name": "Kelpie",
+      "probability": 0.9252,
+      "margin": 0.9053,
+      "ood_energy_score": -5.6307,
+      "image_degraded": false,
+      "mask_quality": 0.6843,
+      "possible_mixed_breed": false,
+      "ranked_candidates": [
+        {
+          "breed": "kelpie",
+          "display_name": "Kelpie",
+          "probability": 0.9252
+        },
+        {
+          "breed": "dingo",
+          "display_name": "Dingo",
+          "probability": 0.0199
+        },
+        {
+          "breed": "cardigan",
+          "display_name": "Cardigan",
+          "probability": 0.0131
+        },
+        {
+          "breed": "german_short-haired_pointer",
+          "display_name": "German Short-Haired Pointer",
+          "probability": 0.0043
+        },
+        {
+          "breed": "chihuahua",
+          "display_name": "Chihuahua",
+          "probability": 0.0038
+        }
+      ],
+      "index": 2,
+      "box": {
+        "x1": 324.14013671875,
+        "y1": 322.3377990722656,
+        "x2": 583.6862182617188,
+        "y2": 620.6825561523438
+      },
+      "is_subject": false
+    }
+  ],
+  "checkpoint_version": "convnext_tiny_finetuned_v1_calibrated"
+}

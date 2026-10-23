@@ -1,0 +1,34 @@
+{
+  "regions": [
+    {
+      "name": "black",
+      "coverage": 0.6711,
+      "lab": [
+        16.64,
+        0.98,
+        -2.66
+      ]
+    },
+    {
+      "name": "grey",
+      "coverage": 0.1676,
+      "lab": [
+        51.86,
+        0.87,
+        1.51
+      ]
+    },
+    {
+      "name": "silver",
+      "coverage": 0.1613,
+      "lab": [
+        74.7,
+        -0.21,
+        3.29
+      ]
+    }
+  ],
+  "confidence": 0.8112,
+  "white_balance_shift": 0.006,
+  "refused": false
+}
