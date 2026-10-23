@@ -1,0 +1,722 @@
+{
+  "affenpinscher": {
+    "display_name": "Affenpinscher",
+    "folder": "n02110627-affenpinscher",
+    "image_count": 150,
+    "synset": "n02110627"
+  },
+  "afghan_hound": {
+    "display_name": "Afghan Hound",
+    "folder": "n02088094-Afghan_hound",
+    "image_count": 239,
+    "synset": "n02088094"
+  },
+  "african_hunting_dog": {
+    "display_name": "African Hunting Dog",
+    "folder": "n02116738-African_hunting_dog",
+    "image_count": 169,
+    "synset": "n02116738"
+  },
+  "airedale": {
+    "display_name": "Airedale",
+    "folder": "n02096051-Airedale",
+    "image_count": 202,
+    "synset": "n02096051"
+  },
+  "american_staffordshire_terrier": {
+    "display_name": "American Staffordshire Terrier",
+    "folder": "n02093428-American_Staffordshire_terrier",
+    "image_count": 164,
+    "synset": "n02093428"
+  },
+  "appenzeller": {
+    "display_name": "Appenzeller",
+    "folder": "n02107908-Appenzeller",
+    "image_count": 151,
+    "synset": "n02107908"
+  },
+  "australian_terrier": {
+    "display_name": "Australian Terrier",
+    "folder": "n02096294-Australian_terrier",
+    "image_count": 196,
+    "synset": "n02096294"
+  },
+  "basenji": {
+    "display_name": "Basenji",
+    "folder": "n02110806-basenji",
+    "image_count": 209,
+    "synset": "n02110806"
+  },
+  "basset": {
+    "display_name": "Basset",
+    "folder": "n02088238-basset",
+    "image_count": 175,
+    "synset": "n02088238"
+  },
+  "beagle": {
+    "display_name": "Beagle",
+    "folder": "n02088364-beagle",
+    "image_count": 195,
+    "synset": "n02088364"
+  },
+  "bedlington_terrier": {
+    "display_name": "Bedlington Terrier",
+    "folder": "n02093647-Bedlington_terrier",
+    "image_count": 182,
+    "synset": "n02093647"
+  },
+  "bernese_mountain_dog": {
+    "display_name": "Bernese Mountain Dog",
+    "folder": "n02107683-Bernese_mountain_dog",
+    "image_count": 218,
+    "synset": "n02107683"
+  },
+  "black-and-tan_coonhound": {
+    "display_name": "Black-And-Tan Coonhound",
+    "folder": "n02089078-black-and-tan_coonhound",
+    "image_count": 159,
+    "synset": "n02089078"
+  },
+  "blenheim_spaniel": {
+    "display_name": "Blenheim Spaniel",
+    "folder": "n02086646-Blenheim_spaniel",
+    "image_count": 188,
+    "synset": "n02086646"
+  },
+  "bloodhound": {
+    "display_name": "Bloodhound",
+    "folder": "n02088466-bloodhound",
+    "image_count": 187,
+    "synset": "n02088466"
+  },
+  "bluetick": {
+    "display_name": "Bluetick",
+    "folder": "n02088632-bluetick",
+    "image_count": 171,
+    "synset": "n02088632"
+  },
+  "border_collie": {
+    "display_name": "Border Collie",
+    "folder": "n02106166-Border_collie",
+    "image_count": 150,
+    "synset": "n02106166"
+  },
+  "border_terrier": {
+    "display_name": "Border Terrier",
+    "folder": "n02093754-Border_terrier",
+    "image_count": 172,
+    "synset": "n02093754"
+  },
+  "borzoi": {
+    "display_name": "Borzoi",
+    "folder": "n02090622-borzoi",
+    "image_count": 151,
+    "synset": "n02090622"
+  },
+  "boston_bull": {
+    "display_name": "Boston Bull",
+    "folder": "n02096585-Boston_bull",
+    "image_count": 182,
+    "synset": "n02096585"
+  },
+  "bouvier_des_flandres": {
+    "display_name": "Bouvier Des Flandres",
+    "folder": "n02106382-Bouvier_des_Flandres",
+    "image_count": 150,
+    "synset": "n02106382"
+  },
+  "boxer": {
+    "display_name": "Boxer",
+    "folder": "n02108089-boxer",
+    "image_count": 151,
+    "synset": "n02108089"
+  },
+  "brabancon_griffon": {
+    "display_name": "Brabancon Griffon",
+    "folder": "n02112706-Brabancon_griffon",
+    "image_count": 153,
+    "synset": "n02112706"
+  },
+  "briard": {
+    "display_name": "Briard",
+    "folder": "n02105251-briard",
+    "image_count": 152,
+    "synset": "n02105251"
+  },
+  "brittany_spaniel": {
+    "display_name": "Brittany Spaniel",
+    "folder": "n02101388-Brittany_spaniel",
+    "image_count": 152,
+    "synset": "n02101388"
+  },
+  "bull_mastiff": {
+    "display_name": "Bull Mastiff",
+    "folder": "n02108422-bull_mastiff",
+    "image_count": 156,
+    "synset": "n02108422"
+  },
+  "cairn": {
+    "display_name": "Cairn",
+    "folder": "n02096177-cairn",
+    "image_count": 197,
+    "synset": "n02096177"
+  },
+  "cardigan": {
+    "display_name": "Cardigan",
+    "folder": "n02113186-Cardigan",
+    "image_count": 155,
+    "synset": "n02113186"
+  },
+  "chesapeake_bay_retriever": {
+    "display_name": "Chesapeake Bay Retriever",
+    "folder": "n02099849-Chesapeake_Bay_retriever",
+    "image_count": 167,
+    "synset": "n02099849"
+  },
+  "chihuahua": {
+    "display_name": "Chihuahua",
+    "folder": "n02085620-Chihuahua",
+    "image_count": 152,
+    "synset": "n02085620"
+  },
+  "chow": {
+    "display_name": "Chow",
+    "folder": "n02112137-chow",
+    "image_count": 196,
+    "synset": "n02112137"
+  },
+  "clumber": {
+    "display_name": "Clumber",
+    "folder": "n02101556-clumber",
+    "image_count": 150,
+    "synset": "n02101556"
+  },
+  "cocker_spaniel": {
+    "display_name": "Cocker Spaniel",
+    "folder": "n02102318-cocker_spaniel",
+    "image_count": 159,
+    "synset": "n02102318"
+  },
+  "collie": {
+    "display_name": "Collie",
+    "folder": "n02106030-collie",
+    "image_count": 153,
+    "synset": "n02106030"
+  },
+  "curly-coated_retriever": {
+    "display_name": "Curly-Coated Retriever",
+    "folder": "n02099429-curly-coated_retriever",
+    "image_count": 151,
+    "synset": "n02099429"
+  },
+  "dandie_dinmont": {
+    "display_name": "Dandie Dinmont",
+    "folder": "n02096437-Dandie_Dinmont",
+    "image_count": 180,
+    "synset": "n02096437"
+  },
+  "dhole": {
+    "display_name": "Dhole",
+    "folder": "n02115913-dhole",
+    "image_count": 150,
+    "synset": "n02115913"
+  },
+  "dingo": {
+    "display_name": "Dingo",
+    "folder": "n02115641-dingo",
+    "image_count": 156,
+    "synset": "n02115641"
+  },
+  "doberman": {
+    "display_name": "Doberman",
+    "folder": "n02107142-Doberman",
+    "image_count": 150,
+    "synset": "n02107142"
+  },
+  "english_foxhound": {
+    "display_name": "English Foxhound",
+    "folder": "n02089973-English_foxhound",
+    "image_count": 157,
+    "synset": "n02089973"
+  },
+  "english_setter": {
+    "display_name": "English Setter",
+    "folder": "n02100735-English_setter",
+    "image_count": 161,
+    "synset": "n02100735"
+  },
+  "english_springer": {
+    "display_name": "English Springer",
+    "folder": "n02102040-English_springer",
+    "image_count": 159,
+    "synset": "n02102040"
+  },
+  "entlebucher": {
+    "display_name": "Entlebucher",
+    "folder": "n02108000-EntleBucher",
+    "image_count": 202,
+    "synset": "n02108000"
+  },
+  "eskimo_dog": {
+    "display_name": "Eskimo Dog",
+    "folder": "n02109961-Eskimo_dog",
+    "image_count": 150,
+    "synset": "n02109961"
+  },
+  "flat-coated_retriever": {
+    "display_name": "Flat-Coated Retriever",
+    "folder": "n02099267-flat-coated_retriever",
+    "image_count": 152,
+    "synset": "n02099267"
+  },
+  "french_bulldog": {
+    "display_name": "French Bulldog",
+    "folder": "n02108915-French_bulldog",
+    "image_count": 159,
+    "synset": "n02108915"
+  },
+  "german_shepherd": {
+    "display_name": "German Shepherd",
+    "folder": "n02106662-German_shepherd",
+    "image_count": 152,
+    "synset": "n02106662"
+  },
+  "german_short-haired_pointer": {
+    "display_name": "German Short-Haired Pointer",
+    "folder": "n02100236-German_short-haired_pointer",
+    "image_count": 152,
+    "synset": "n02100236"
+  },
+  "giant_schnauzer": {
+    "display_name": "Giant Schnauzer",
+    "folder": "n02097130-giant_schnauzer",
+    "image_count": 157,
+    "synset": "n02097130"
+  },
+  "golden_retriever": {
+    "display_name": "Golden Retriever",
+    "folder": "n02099601-golden_retriever",
+    "image_count": 150,
+    "synset": "n02099601"
+  },
+  "gordon_setter": {
+    "display_name": "Gordon Setter",
+    "folder": "n02101006-Gordon_setter",
+    "image_count": 153,
+    "synset": "n02101006"
+  },
+  "great_dane": {
+    "display_name": "Great Dane",
+    "folder": "n02109047-Great_Dane",
+    "image_count": 156,
+    "synset": "n02109047"
+  },
+  "great_pyrenees": {
+    "display_name": "Great Pyrenees",
+    "folder": "n02111500-Great_Pyrenees",
+    "image_count": 213,
+    "synset": "n02111500"
+  },
+  "greater_swiss_mountain_dog": {
+    "display_name": "Greater Swiss Mountain Dog",
+    "folder": "n02107574-Greater_Swiss_Mountain_dog",
+    "image_count": 168,
+    "synset": "n02107574"
+  },
+  "groenendael": {
+    "display_name": "Groenendael",
+    "folder": "n02105056-groenendael",
+    "image_count": 150,
+    "synset": "n02105056"
+  },
+  "ibizan_hound": {
+    "display_name": "Ibizan Hound",
+    "folder": "n02091244-Ibizan_hound",
+    "image_count": 188,
+    "synset": "n02091244"
+  },
+  "irish_setter": {
+    "display_name": "Irish Setter",
+    "folder": "n02100877-Irish_setter",
+    "image_count": 155,
+    "synset": "n02100877"
+  },
+  "irish_terrier": {
+    "display_name": "Irish Terrier",
+    "folder": "n02093991-Irish_terrier",
+    "image_count": 169,
+    "synset": "n02093991"
+  },
+  "irish_water_spaniel": {
+    "display_name": "Irish Water Spaniel",
+    "folder": "n02102973-Irish_water_spaniel",
+    "image_count": 150,
+    "synset": "n02102973"
+  },
+  "irish_wolfhound": {
+    "display_name": "Irish Wolfhound",
+    "folder": "n02090721-Irish_wolfhound",
+    "image_count": 218,
+    "synset": "n02090721"
+  },
+  "italian_greyhound": {
+    "display_name": "Italian Greyhound",
+    "folder": "n02091032-Italian_greyhound",
+    "image_count": 182,
+    "synset": "n02091032"
+  },
+  "japanese_spaniel": {
+    "display_name": "Japanese Spaniel",
+    "folder": "n02085782-Japanese_spaniel",
+    "image_count": 185,
+    "synset": "n02085782"
+  },
+  "keeshond": {
+    "display_name": "Keeshond",
+    "folder": "n02112350-keeshond",
+    "image_count": 158,
+    "synset": "n02112350"
+  },
+  "kelpie": {
+    "display_name": "Kelpie",
+    "folder": "n02105412-kelpie",
+    "image_count": 153,
+    "synset": "n02105412"
+  },
+  "kerry_blue_terrier": {
+    "display_name": "Kerry Blue Terrier",
+    "folder": "n02093859-Kerry_blue_terrier",
+    "image_count": 179,
+    "synset": "n02093859"
+  },
+  "komondor": {
+    "display_name": "Komondor",
+    "folder": "n02105505-komondor",
+    "image_count": 154,
+    "synset": "n02105505"
+  },
+  "kuvasz": {
+    "display_name": "Kuvasz",
+    "folder": "n02104029-kuvasz",
+    "image_count": 150,
+    "synset": "n02104029"
+  },
+  "labrador_retriever": {
+    "display_name": "Labrador Retriever",
+    "folder": "n02099712-Labrador_retriever",
+    "image_count": 171,
+    "synset": "n02099712"
+  },
+  "lakeland_terrier": {
+    "display_name": "Lakeland Terrier",
+    "folder": "n02095570-Lakeland_terrier",
+    "image_count": 197,
+    "synset": "n02095570"
+  },
+  "leonberg": {
+    "display_name": "Leonberg",
+    "folder": "n02111129-Leonberg",
+    "image_count": 210,
+    "synset": "n02111129"
+  },
+  "lhasa": {
+    "display_name": "Lhasa",
+    "folder": "n02098413-Lhasa",
+    "image_count": 186,
+    "synset": "n02098413"
+  },
+  "malamute": {
+    "display_name": "Malamute",
+    "folder": "n02110063-malamute",
+    "image_count": 178,
+    "synset": "n02110063"
+  },
+  "malinois": {
+    "display_name": "Malinois",
+    "folder": "n02105162-malinois",
+    "image_count": 150,
+    "synset": "n02105162"
+  },
+  "maltese_dog": {
+    "display_name": "Maltese Dog",
+    "folder": "n02085936-Maltese_dog",
+    "image_count": 252,
+    "synset": "n02085936"
+  },
+  "mexican_hairless": {
+    "display_name": "Mexican Hairless",
+    "folder": "n02113978-Mexican_hairless",
+    "image_count": 155,
+    "synset": "n02113978"
+  },
+  "miniature_pinscher": {
+    "display_name": "Miniature Pinscher",
+    "folder": "n02107312-miniature_pinscher",
+    "image_count": 184,
+    "synset": "n02107312"
+  },
+  "miniature_poodle": {
+    "display_name": "Miniature Poodle",
+    "folder": "n02113712-miniature_poodle",
+    "image_count": 155,
+    "synset": "n02113712"
+  },
+  "miniature_schnauzer": {
+    "display_name": "Miniature Schnauzer",
+    "folder": "n02097047-miniature_schnauzer",
+    "image_count": 154,
+    "synset": "n02097047"
+  },
+  "newfoundland": {
+    "display_name": "Newfoundland",
+    "folder": "n02111277-Newfoundland",
+    "image_count": 195,
+    "synset": "n02111277"
+  },
+  "norfolk_terrier": {
+    "display_name": "Norfolk Terrier",
+    "folder": "n02094114-Norfolk_terrier",
+    "image_count": 172,
+    "synset": "n02094114"
+  },
+  "norwegian_elkhound": {
+    "display_name": "Norwegian Elkhound",
+    "folder": "n02091467-Norwegian_elkhound",
+    "image_count": 196,
+    "synset": "n02091467"
+  },
+  "norwich_terrier": {
+    "display_name": "Norwich Terrier",
+    "folder": "n02094258-Norwich_terrier",
+    "image_count": 185,
+    "synset": "n02094258"
+  },
+  "old_english_sheepdog": {
+    "display_name": "Old English Sheepdog",
+    "folder": "n02105641-Old_English_sheepdog",
+    "image_count": 169,
+    "synset": "n02105641"
+  },
+  "otterhound": {
+    "display_name": "Otterhound",
+    "folder": "n02091635-otterhound",
+    "image_count": 151,
+    "synset": "n02091635"
+  },
+  "papillon": {
+    "display_name": "Papillon",
+    "folder": "n02086910-papillon",
+    "image_count": 196,
+    "synset": "n02086910"
+  },
+  "pekinese": {
+    "display_name": "Pekinese",
+    "folder": "n02086079-Pekinese",
+    "image_count": 149,
+    "synset": "n02086079"
+  },
+  "pembroke": {
+    "display_name": "Pembroke",
+    "folder": "n02113023-Pembroke",
+    "image_count": 181,
+    "synset": "n02113023"
+  },
+  "pomeranian": {
+    "display_name": "Pomeranian",
+    "folder": "n02112018-Pomeranian",
+    "image_count": 219,
+    "synset": "n02112018"
+  },
+  "pug": {
+    "display_name": "Pug",
+    "folder": "n02110958-pug",
+    "image_count": 200,
+    "synset": "n02110958"
+  },
+  "redbone": {
+    "display_name": "Redbone",
+    "folder": "n02090379-redbone",
+    "image_count": 148,
+    "synset": "n02090379"
+  },
+  "rhodesian_ridgeback": {
+    "display_name": "Rhodesian Ridgeback",
+    "folder": "n02087394-Rhodesian_ridgeback",
+    "image_count": 172,
+    "synset": "n02087394"
+  },
+  "rottweiler": {
+    "display_name": "Rottweiler",
+    "folder": "n02106550-Rottweiler",
+    "image_count": 152,
+    "synset": "n02106550"
+  },
+  "saint_bernard": {
+    "display_name": "Saint Bernard",
+    "folder": "n02109525-Saint_Bernard",
+    "image_count": 170,
+    "synset": "n02109525"
+  },
+  "saluki": {
+    "display_name": "Saluki",
+    "folder": "n02091831-Saluki",
+    "image_count": 200,
+    "synset": "n02091831"
+  },
+  "samoyed": {
+    "display_name": "Samoyed",
+    "folder": "n02111889-Samoyed",
+    "image_count": 218,
+    "synset": "n02111889"
+  },
+  "schipperke": {
+    "display_name": "Schipperke",
+    "folder": "n02104365-schipperke",
+    "image_count": 154,
+    "synset": "n02104365"
+  },
+  "scotch_terrier": {
+    "display_name": "Scotch Terrier",
+    "folder": "n02097298-Scotch_terrier",
+    "image_count": 158,
+    "synset": "n02097298"
+  },
+  "scottish_deerhound": {
+    "display_name": "Scottish Deerhound",
+    "folder": "n02092002-Scottish_deerhound",
+    "image_count": 232,
+    "synset": "n02092002"
+  },
+  "sealyham_terrier": {
+    "display_name": "Sealyham Terrier",
+    "folder": "n02095889-Sealyham_terrier",
+    "image_count": 202,
+    "synset": "n02095889"
+  },
+  "shetland_sheepdog": {
+    "display_name": "Shetland Sheepdog",
+    "folder": "n02105855-Shetland_sheepdog",
+    "image_count": 157,
+    "synset": "n02105855"
+  },
+  "shih-tzu": {
+    "display_name": "Shih-Tzu",
+    "folder": "n02086240-Shih-Tzu",
+    "image_count": 214,
+    "synset": "n02086240"
+  },
+  "siberian_husky": {
+    "display_name": "Siberian Husky",
+    "folder": "n02110185-Siberian_husky",
+    "image_count": 192,
+    "synset": "n02110185"
+  },
+  "silky_terrier": {
+    "display_name": "Silky Terrier",
+    "folder": "n02097658-silky_terrier",
+    "image_count": 183,
+    "synset": "n02097658"
+  },
+  "soft-coated_wheaten_terrier": {
+    "display_name": "Soft-Coated Wheaten Terrier",
+    "folder": "n02098105-soft-coated_wheaten_terrier",
+    "image_count": 156,
+    "synset": "n02098105"
+  },
+  "staffordshire_bullterrier": {
+    "display_name": "Staffordshire Bullterrier",
+    "folder": "n02093256-Staffordshire_bullterrier",
+    "image_count": 155,
+    "synset": "n02093256"
+  },
+  "standard_poodle": {
+    "display_name": "Standard Poodle",
+    "folder": "n02113799-standard_poodle",
+    "image_count": 159,
+    "synset": "n02113799"
+  },
+  "standard_schnauzer": {
+    "display_name": "Standard Schnauzer",
+    "folder": "n02097209-standard_schnauzer",
+    "image_count": 155,
+    "synset": "n02097209"
+  },
+  "sussex_spaniel": {
+    "display_name": "Sussex Spaniel",
+    "folder": "n02102480-Sussex_spaniel",
+    "image_count": 151,
+    "synset": "n02102480"
+  },
+  "tibetan_mastiff": {
+    "display_name": "Tibetan Mastiff",
+    "folder": "n02108551-Tibetan_mastiff",
+    "image_count": 152,
+    "synset": "n02108551"
+  },
+  "tibetan_terrier": {
+    "display_name": "Tibetan Terrier",
+    "folder": "n02097474-Tibetan_terrier",
+    "image_count": 206,
+    "synset": "n02097474"
+  },
+  "toy_poodle": {
+    "display_name": "Toy Poodle",
+    "folder": "n02113624-toy_poodle",
+    "image_count": 151,
+    "synset": "n02113624"
+  },
+  "toy_terrier": {
+    "display_name": "Toy Terrier",
+    "folder": "n02087046-toy_terrier",
+    "image_count": 172,
+    "synset": "n02087046"
+  },
+  "vizsla": {
+    "display_name": "Vizsla",
+    "folder": "n02100583-vizsla",
+    "image_count": 154,
+    "synset": "n02100583"
+  },
+  "walker_hound": {
+    "display_name": "Walker Hound",
+    "folder": "n02089867-Walker_hound",
+    "image_count": 153,
+    "synset": "n02089867"
+  },
+  "weimaraner": {
+    "display_name": "Weimaraner",
+    "folder": "n02092339-Weimaraner",
+    "image_count": 160,
+    "synset": "n02092339"
+  },
+  "welsh_springer_spaniel": {
+    "display_name": "Welsh Springer Spaniel",
+    "folder": "n02102177-Welsh_springer_spaniel",
+    "image_count": 150,
+    "synset": "n02102177"
+  },
+  "west_highland_white_terrier": {
+    "display_name": "West Highland White Terrier",
+    "folder": "n02098286-West_Highland_white_terrier",
+    "image_count": 169,
+    "synset": "n02098286"
+  },
+  "whippet": {
+    "display_name": "Whippet",
+    "folder": "n02091134-whippet",
+    "image_count": 187,
+    "synset": "n02091134"
+  },
+  "wire-haired_fox_terrier": {
+    "display_name": "Wire-Haired Fox Terrier",
+    "folder": "n02095314-wire-haired_fox_terrier",
+    "image_count": 157,
+    "synset": "n02095314"
+  },
+  "yorkshire_terrier": {
+    "display_name": "Yorkshire Terrier",
+    "folder": "n02094433-Yorkshire_terrier",
+    "image_count": 164,
+    "synset": "n02094433"
+  }
+}
